@@ -1,6 +1,6 @@
 function suma(a,b){
-    a^2;
-    b^2;
+    a = a^2;
+    b = b^2;
 
     if(a === 10 && b === 30) {
         a = "Hola";
